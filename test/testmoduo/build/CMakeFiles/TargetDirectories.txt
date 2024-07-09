@@ -1,0 +1,3 @@
+/home/testenvqemu/Desktop/code/server/testmoduo/build/CMakeFiles/rebuild_cache.dir
+/home/testenvqemu/Desktop/code/server/testmoduo/build/CMakeFiles/edit_cache.dir
+/home/testenvqemu/Desktop/code/server/testmoduo/build/CMakeFiles/server.dir

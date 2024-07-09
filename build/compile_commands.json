@@ -1,0 +1,61 @@
+[
+{
+  "directory": "/home/testenvqemu/Desktop/code/server/build",
+  "command": "/usr/bin/c++   -I../include -I../include/server -I../include/server/db -I../include/server/model -I../include/server/redis -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/testenvqemu/Desktop/code/server/src/server/chatserver.cpp",
+  "file": "/home/testenvqemu/Desktop/code/server/src/server/chatserver.cpp"
+},
+
+{
+  "directory": "/home/testenvqemu/Desktop/code/server/build",
+  "command": "/usr/bin/c++   -I../include -I../include/server -I../include/server/db -I../include/server/model -I../include/server/redis -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/testenvqemu/Desktop/code/server/src/server/chatservice.cpp",
+  "file": "/home/testenvqemu/Desktop/code/server/src/server/chatservice.cpp"
+},
+
+{
+  "directory": "/home/testenvqemu/Desktop/code/server/build",
+  "command": "/usr/bin/c++   -I../include -I../include/server -I../include/server/db -I../include/server/model -I../include/server/redis -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/main.cpp.o -c /home/testenvqemu/Desktop/code/server/src/server/main.cpp",
+  "file": "/home/testenvqemu/Desktop/code/server/src/server/main.cpp"
+},
+
+{
+  "directory": "/home/testenvqemu/Desktop/code/server/build",
+  "command": "/usr/bin/c++   -I../include -I../include/server -I../include/server/db -I../include/server/model -I../include/server/redis -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/testenvqemu/Desktop/code/server/src/server/db/db.cpp",
+  "file": "/home/testenvqemu/Desktop/code/server/src/server/db/db.cpp"
+},
+
+{
+  "directory": "/home/testenvqemu/Desktop/code/server/build",
+  "command": "/usr/bin/c++   -I../include -I../include/server -I../include/server/db -I../include/server/model -I../include/server/redis -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/testenvqemu/Desktop/code/server/src/server/model/friendmodel.cpp",
+  "file": "/home/testenvqemu/Desktop/code/server/src/server/model/friendmodel.cpp"
+},
+
+{
+  "directory": "/home/testenvqemu/Desktop/code/server/build",
+  "command": "/usr/bin/c++   -I../include -I../include/server -I../include/server/db -I../include/server/model -I../include/server/redis -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/testenvqemu/Desktop/code/server/src/server/model/groupmodel.cpp",
+  "file": "/home/testenvqemu/Desktop/code/server/src/server/model/groupmodel.cpp"
+},
+
+{
+  "directory": "/home/testenvqemu/Desktop/code/server/build",
+  "command": "/usr/bin/c++   -I../include -I../include/server -I../include/server/db -I../include/server/model -I../include/server/redis -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/testenvqemu/Desktop/code/server/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/testenvqemu/Desktop/code/server/src/server/model/offlinemessagemodel.cpp"
+},
+
+{
+  "directory": "/home/testenvqemu/Desktop/code/server/build",
+  "command": "/usr/bin/c++   -I../include -I../include/server -I../include/server/db -I../include/server/model -I../include/server/redis -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/testenvqemu/Desktop/code/server/src/server/model/usermodel.cpp",
+  "file": "/home/testenvqemu/Desktop/code/server/src/server/model/usermodel.cpp"
+},
+
+{
+  "directory": "/home/testenvqemu/Desktop/code/server/build",
+  "command": "/usr/bin/c++   -I../include -I../include/server -I../include/server/db -I../include/server/model -I../include/server/redis -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/testenvqemu/Desktop/code/server/src/server/redis/redis.cpp",
+  "file": "/home/testenvqemu/Desktop/code/server/src/server/redis/redis.cpp"
+},
+
+{
+  "directory": "/home/testenvqemu/Desktop/code/server/build",
+  "command": "/usr/bin/c++   -I../include -I../include/server -I../include/server/db -I../include/server/model -I../include/server/redis -I../thirdparty  -g -g   -o src/client/CMakeFiles/ChatClient.dir/main.cpp.o -c /home/testenvqemu/Desktop/code/server/src/client/main.cpp",
+  "file": "/home/testenvqemu/Desktop/code/server/src/client/main.cpp"
+}
+]
